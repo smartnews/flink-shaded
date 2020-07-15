@@ -54,7 +54,7 @@ under the License.
 		<snapshotRepository>
 			<id>smartnews-snapshots</id>
 			<name>smartnews-snapshots</name>
-			<url>$http://nexus.smartnews.be/nexus/content/repositories/snapshots</url>
+			<url>http://nexus.smartnews.be/nexus/content/repositories/snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
 
